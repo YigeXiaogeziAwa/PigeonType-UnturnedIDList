@@ -30,7 +30,7 @@
 | 建筑物 | 20   | ❌      | ❌      | ❌        | ❌      |
 | 载具   | 5    | ❌      | ❌      | ❌        | ❌      |
 
-| 名称                                   | 弹匣口径 | 弹匣类型 | ID    |
+| 弹匣名称                               | 弹匣口径 | 弹匣类型 | ID    |
 | -------------------------------------- | -------- | -------- | ----- |
 | 7T3M 30rnd AK-12 Magazine              | 5.45x39  | Normal   | 58686 |
 | 7T3M 45rnd 6L18 Magazine               | 5.45x39  | Normal   | 58472 |
@@ -41,3 +41,29 @@
 | 7N6 Ball 30rnd AK-12 Magazine          | 5.45x39  | Normal   | 58684 |
 | 7N6 Ball 60rnd 6L31 Quadstack Magazine | 5.45x39  | Normal   | 58737 |
 | 7N6 Ball 30rnd 6L23 Magazine (Plum)    | 5.45x39  | Normal   | 58188 |
+
+| 瞄准镜名称                                              | 瞄准镜倍数    | ID            |
+| ------------------------------------------------------- | ------------- | ------------- |
+| Aimpoint Comp M4 Reflex Sight W. AK Adapter             | 1x            | 59220         |
+| Aimpoint CS Reflex Sight W. AK Adapter                  | 1x            | 58416         |
+| Aimpoint CS Reflex Sight W. AK Adapter (Back-Up Sights) | 1x            | 58417         |
+| Aimpoint PRO Dot Sight W. AK Adapter                    | 1x            | 58868         |
+| Axion Kobra EKP-8-02 Reflex Sight                       | 1x            | 59129         |
+| Axion Kobra EKP-8-18 Reflex Sight W. AK Adapter         | 1x            | 59127         |
+| EOTech 553 Holographic Sight W. AK Adapter              | 1x            | 58026         |
+| EOTech EXPS3 Holographic Sight W. AK Adapter            | 1x            | 58138         |
+| EOTech HHS-1 Hybrid Sight W. AK Adapter                 | 1x            | 59093         |
+| EOTech HHS-1 Hybrid Sight W. AK Adapter (3x)            | 3x            | 59096         |
+| M2A1 Reflex Sight W. AK Adapter                         | 1x            | 58418         |
+| Aimpoint Micro T-2 Dot Sight W. AK Adapter              | 1x            | 58415         |
+| OKP-7 Reflex Sight W. AK Adapter                        | 1x            | 58454         |
+| Aimpoint PRO Dot Sight W. AK Adapter                    | 1x            | 58121         |
+| PK-120 Holographic Sight W. AK Adapter                  | 1x            | 58051         |
+| PK-120 Holographic Sight W. AK Adapter                  | 1x            | 58051         |
+| PK-AS Red Dot Sight                                     | 1x            | 58767         |
+| PK-AS-W Red Dot Sight W. AK Adapter                     | 1x            | 58402         |
+| Razor AMG UH-1 Holographic Sight W. AK Adapter          | 1x            | 58830         |
+| Trijicon RX01NSN Dot Sight W. AK Adapter                | 1x            | 58419         |
+| Walther MRS Reflex Sight W. AK Adapter                  | 1x            | 58999         |
+| Zeiss Z-Point Reflex Sight W. AK Adapter                | 1x            | 58137         |
+| 更多加更中...                                           | 更多加更中... | 更多加更中... |
