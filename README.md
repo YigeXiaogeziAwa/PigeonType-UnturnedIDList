@@ -12,3 +12,4 @@
 ### 原版
 - 制作ing
 ### Mod
+- [Nordic Armory 3.0](IDList_markdown/Mod/nordic_armory_3.0.md)
